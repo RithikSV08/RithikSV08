@@ -53,8 +53,7 @@ I'm passionate about understanding how networks, systems, and cloud infrastructu
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/
-rithik-sv-127048394
+- LinkedIn: www.linkedin.com/in/rithik-sv-127048394
 
 - GitHub: https://github.com/YOUR_USERNAME
 
